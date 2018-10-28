@@ -2,4 +2,5 @@
 Simple table to view incoming data. Consuming via socket.io
 
 ## Usage
-1. npm start
+View the quickstart repo for a step by step guide.
+
