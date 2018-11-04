@@ -1,6 +1,9 @@
 # UI-table-view
-React + Redux simple application to view live data
+Simple table to view incoming data. Consuming via socket.io
 
-This is currently unfinished. The goal here would be to have a simple React frontend that allows us to view live messages.
+## Usage
+View the quickstart repo for a step by step guide.
 
-Next step would be to add a login screen and authentication.
+## Screenshot
+![image](https://i.imgur.com/D1SF2co.png)
+
