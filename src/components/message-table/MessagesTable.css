@@ -32,3 +32,21 @@
   to { transform: rotate(360deg); }
 }
 
+.example-appear {
+  opacity: 0.01;
+}
+
+.example-appear.example-appear-active {
+  opacity: 1;
+  transition: opacity .5s ease-in;
+}
+
+.spinner{
+  color: #2196f3 !important;
+  margin-top: 20px;
+}
+
+#spinnerContainer{
+  width: 100%;
+  text-align: center;
+}

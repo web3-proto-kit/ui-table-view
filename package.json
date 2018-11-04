@@ -3,15 +3,17 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "latest",
+    "lodash": "^4.17.11",
+    "prop-types": "latest",
     "react": "^16.4.2",
+    "react-addons-css-transition-group": "^15.6.2",
     "react-bootstrap": "^0.32.4",
     "react-bootstrap-table": "^4.3.1",
     "react-dom": "^16.4.2",
     "react-scripts": "1.1.5",
-    "socket.io-client": "^2.1.1",
-    "prop-types": "latest",
-    "@material-ui/core": "latest",
-    "@material-ui/icons": "latest"
+    "socket.io-client": "^2.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
